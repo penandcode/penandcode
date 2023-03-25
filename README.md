@@ -69,5 +69,30 @@
     Node.JS
   </div>
 </div>
+    <div>
+      <h1>
+        Some Projects:
+      </h1>
+      <div>
+        <div>
+          <a href="https://lakshit-qtrip-static.netlify.app">➤ QtripStatic </a>
+        </div>
+        <div>
+           <a href="https://lakshit-qtrip-dynamic.netlify.app/">➤ QtripDynamic</a>
+        </div>
+        <div>
+          <a href="https://lakshit-xboard.netlify.app/">➤ XBoard</a>
+        </div>
+        <div>
+           <a href="https://lakshit-qkart-frontend.netlify.app/">➤ Qkart Frontend</a>
+        </div>
+        <div>
+           <a href="https://lakshit-qkart-backend.netlify.app/">➤ Qkart Backend</a>
+        </div>
+        <div>
+           <a href="https://lakshit-quotes.netlify.app/">➤ Quotes Website</a>
+        </div>
+      </div>
+    </div>
       
 </div>
