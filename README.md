@@ -46,6 +46,28 @@
           <img style="height:32px; width:32px;" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png">
         </a>
       </div>
+    </div>
+    
+<div>
+  <h1>
+    Tech Stack
+  </h1>
+  <div>
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" style="height:18px;">
+    MongoDB
   </div>
+  <div>
+    <img src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" style="height:18px;">
+    Express
+  </div>
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="height:18px;">
+    React.JS
+  </div>
+  <div>
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="height:18px;">
+    Node.JS
+  </div>
+</div>
       
 </div>
