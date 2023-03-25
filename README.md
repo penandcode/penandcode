@@ -1,32 +1,51 @@
-### Hi there 👋
 
-<!--
-**penandcode/penandcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h1>
+  Hey there
+  <img style="height:32px;" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>
+  </h1>
 
-Here are some ideas to get you started:
+  <h1>
+  About Me
+  </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <ul>
+    <li>
+      I am Lakshit
+    </li>
+    <li>
+      🔭 I’m currently working in <a href="https://github.com/CrioDo">CrioDo<a>
+    <li>
+      🌱 I’m currently learning MERN stack.
+    </li>
+    <li>
+      💬 Ask me about MERN and Python.
+    </li>
+    <li>
+      ⚡ Fun fact: I am a Mad Mad Person.
+    </li>
+  </ul>
 
-# 💫 About Me:
-I am a PE @ Criodo
-
-
-# 💻 Tech Stack:
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=penandcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=penandcode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=penandcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=penandcode&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <div>
+    <h1>
+      Let's connect
+    </h1>
+    <div>
+      <div>
+        <a href="https://www.instagram.com/pen.code/">
+          <img style="height:32px; width:32px;" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png">
+        </a>
+      </div>
+      <div>
+        <a href="https://www.linkedin.com/in/penandcode/">
+          <img style="height:32px; width:32px;" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png">
+        </a>
+      </div>
+      <div>
+        <a href="mailto:lrsbudhsingh@gmail.com">
+          <img style="height:32px; width:32px;" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png">
+        </a>
+      </div>
+  </div>
+      
+</div>
