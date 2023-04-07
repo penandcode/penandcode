@@ -92,6 +92,9 @@
         <div>
            <a href="https://lakshit-quotes.netlify.app/">➤ Quotes Website</a>
         </div>
+        <div>
+          <a href="https://smilify.netlify.app/">➤ HQ Images Website</a>
+        </div>
       </div>
     </div>
       
