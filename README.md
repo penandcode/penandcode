@@ -1,101 +1,36 @@
+<h1 align="center">Hi 👋, I'm :Lakshit</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<div>
-  <h1>
-  Hey there
-  <img style="height:32px;" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"/>
-  </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=penandcode&label=Profile%20views&color=0e75b6&style=flat" alt="penandcode" /> </p>
 
-  <h1>
-  About Me
-  </h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=penandcode" alt="penandcode" /></a> </p>
 
-  <ul>
-    <li>
-      I am Lakshit
-    </li>
-    <li>
-      🔭 I’m currently working in <a href="https://github.com/CrioDo">CrioDo<a>
-    <li>
-      🌱 I’m currently learning MERN stack.
-    </li>
-    <li>
-      💬 Ask me about MERN and Python.
-    </li>
-    <li>
-      ⚡ Fun fact: I am a Mad Mad Person.
-    </li>
-  </ul>
+- 🔭 I’m currently working on **URL Shortener**
 
-  <div>
-    <h1>
-      Let's connect
-    </h1>
-    <div>
-      <div>
-        <a href="https://www.instagram.com/pen.code/">
-          <img style="height:32px; width:32px;" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png">
-        </a>
-      </div>
-      <div>
-        <a href="https://www.linkedin.com/in/penandcode/">
-          <img style="height:32px; width:32px;" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png">
-        </a>
-      </div>
-      <div>
-        <a href="mailto:lrsbudhsingh@gmail.com">
-          <img style="height:32px; width:32px;" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png">
-        </a>
-      </div>
-    </div>
-    
-<div>
-  <h1>
-    Tech Stack
-  </h1>
-  <div>
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" style="height:18px;">
-    MongoDB
-  </div>
-  <div>
-    <img src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" style="height:18px;">
-    Express
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="height:18px;">
-    React.JS
-  </div>
-  <div>
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="height:18px;">
-    Node.JS
-  </div>
-</div>
-    <div>
-      <h1>
-        Some Projects:
-      </h1>
-      <div>
-        <div>
-          <a href="https://lakshit-qtrip-static.netlify.app">➤ QtripStatic </a>
-        </div>
-        <div>
-           <a href="https://lakshit-qtrip-dynamic.netlify.app/">➤ QtripDynamic</a>
-        </div>
-        <div>
-          <a href="https://lakshit-xboard.netlify.app/">➤ XBoard</a>
-        </div>
-        <div>
-           <a href="https://lakshit-qkart-frontend.netlify.app/">➤ Qkart Frontend</a>
-        </div>
-        <div>
-           <a href="https://lakshit-qkart-backend.netlify.app/">➤ Qkart Backend</a>
-        </div>
-        <div>
-           <a href="https://lakshit-quotes.netlify.app/">➤ Quotes Website</a>
-        </div>
-        <div>
-          <a href="https://smilify.netlify.app/">➤ HQ Images Website</a>
-        </div>
-      </div>
-    </div>
-      
-</div>
+- 🌱 I’m currently learning **NextJS**
+
+- 👯 I’m looking to collaborate on **MERN Stack Projects**
+
+- 👨‍💻 All of my projects are available at [https://lakshit-portfollio.netlify.app/](https://lakshit-portfollio.netlify.app/)
+
+- 💬 Ask me about **ReactJS, NodeJS**
+
+- 📫 How to reach me **rajputlakshit0@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SbK37L7fVqimrbS6wv4LbBrmL5lJXWL5/view?usp=sharing](https://drive.google.com/file/d/1SbK37L7fVqimrbS6wv4LbBrmL5lJXWL5/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/penandcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="penandcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/penandcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/penandcode" height="30" width="40" /></a>
+<a href="https://instagram.com/pen.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pen.code" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=penandcode&show_icons=true&locale=en&layout=compact" alt="penandcode" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=penandcode&show_icons=true&locale=en" alt="penandcode" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=penandcode&" alt="penandcode" /></p>
