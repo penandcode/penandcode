@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=penandcode" alt="penandcode" /></a> </p>
 
-- 🔭 I’m currently working on **URL Shortener**
+- 🔭 I’m currently working on **mySelf**
 
 - 🌱 I’m currently learning **NextJS**
 
