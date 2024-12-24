@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm :Lakshit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India with expertise in building scalable products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=penandcode&label=Profile%20views&color=0e75b6&style=flat" alt="penandcode" /> </p>
 
