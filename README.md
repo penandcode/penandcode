@@ -47,6 +47,13 @@
 
 ---
 
+<h3><img src="https://img.icons8.com/ios-filled/24/0e75b6/new-post.png" alt="Blog" align="center" /> Latest Blog Posts</h3>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <h3><img src="https://img.icons8.com/ios-filled/24/0e75b6/combo-chart.png" alt="Stats" align="center" /> GitHub Stats</h3>
 
 <p align="center">
