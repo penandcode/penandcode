@@ -50,6 +50,7 @@
 <h3><img src="https://img.icons8.com/ios-filled/24/0e75b6/new-post.png" alt="Blog" align="center" /> Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building This Blog: MDX on Next.js App Router, No CMS](https://lakshitrajput.co.in/blog/building-this-blog-nextjs-mdx)
 <!-- BLOG-POST-LIST:END -->
 
 ---
